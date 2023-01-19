@@ -27,5 +27,3 @@ The code is written in Python and the libraries used are pandas, numpy, sklearn,
 To run the code, you need to have Python and the necessary libraries installed on your machine. The code can be run using Jupyter notebook or any other IDE.
 
 This project can be useful for network administrators and security experts to detect and prevent network intrusions in real-time.
-
-The project is open source and contributions are welcome. Feel free to fork the repository and submit pull requests.
